@@ -287,6 +287,7 @@ public class addNewQuestion extends javax.swing.JFrame {
            ps.setString(6,opt4);
            ps.setString(7,answer);
            ps.executeUpdate();
+           
            JFrame jf=new JFrame();
            jf.setAlwaysOnTop(true);
            JOptionPane.showMessageDialog(jf,"Sucessfully updated");

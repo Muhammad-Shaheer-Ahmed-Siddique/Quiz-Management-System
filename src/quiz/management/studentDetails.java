@@ -88,7 +88,7 @@ public class studentDetails extends javax.swing.JFrame {
         });
 
         jLabel5.setFont(new java.awt.Font("Segoe UI Semibold", 3, 14)); // NOI18N
-        jLabel5.setText("USN");
+        jLabel5.setText("Roll No");
 
         jLabel6.setFont(new java.awt.Font("Segoe UI Semibold", 3, 14)); // NOI18N
         jLabel6.setText("Name");
@@ -171,8 +171,8 @@ public class studentDetails extends javax.swing.JFrame {
                 .addComponent(jLabel4))
             .addGroup(layout.createSequentialGroup()
                 .addGap(47, 47, 47)
-                .addComponent(jLabel5, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(95, 95, 95)
+                .addComponent(jLabel5, javax.swing.GroupLayout.PREFERRED_SIZE, 59, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(74, 74, 74)
                 .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 500, javax.swing.GroupLayout.PREFERRED_SIZE))
             .addGroup(layout.createSequentialGroup()
                 .addGap(47, 47, 47)

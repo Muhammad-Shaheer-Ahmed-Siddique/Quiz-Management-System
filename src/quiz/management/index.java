@@ -76,7 +76,7 @@ int open=0;
         jLabel2.setBackground(new java.awt.Color(0, 102, 102));
         jLabel2.setFont(new java.awt.Font("Segoe UI Semibold", 3, 48)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(0, 102, 102));
-        jLabel2.setText("QUIZ OR EXAM MANAGEMENT SYSTEM");
+        jLabel2.setText("QUIZ MANAGEMENT SYSTEM");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 30, -1, -1));
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 20, 340, -1));
 

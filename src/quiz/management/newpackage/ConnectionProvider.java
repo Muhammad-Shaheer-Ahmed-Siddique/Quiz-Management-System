@@ -12,10 +12,10 @@ public class ConnectionProvider
 {
  public static Connection getCon()
  {
-     try 
+     try  
      {
          Class.forName("com.mysql.jdbc.Driver");
-         Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/qems","root","kul@1623");
+         Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/qems","root","");
          return con;
      }
      catch(Exception e)

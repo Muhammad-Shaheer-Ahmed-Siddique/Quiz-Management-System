@@ -48,9 +48,9 @@
               <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
           </Group>
           <Group type="102" attributes="0">
-              <EmptySpace min="47" pref="47" max="-2" attributes="0"/>
-              <Component id="jLabel5" min="-2" pref="38" max="-2" attributes="0"/>
-              <EmptySpace min="95" pref="95" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+              <Component id="jLabel5" min="-2" pref="59" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
               <Component id="jTextField1" min="-2" pref="500" max="-2" attributes="0"/>
           </Group>
           <Group type="102" attributes="0">
@@ -247,7 +247,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Segoe UI Semibold" size="14" style="3"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="USN"/>
+        <Property name="text" type="java.lang.String" value="Roll No"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel6">
